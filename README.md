@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
   <img src="https://img.shields.io/github/stars/YerbaPage/Awesome-Repo-Level-Code-Generation?color=yellow&label=⭐ Stars">
-  <img src="https://img.shields.io/badge/PRs-Welcome-💌-red">
+  <img src="https://img.shields.io/badge/PRs-Welcome-red">
   <img src="https://img.shields.io/github/last-commit/YerbaPage/Awesome-Repo-Level-Code-Generation?label=⏰ Last%20Commit">
 </p>
 
