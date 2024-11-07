@@ -13,18 +13,18 @@
 
 - [📚 Contents](#-contents)
 - [💥 Repo-Level Issue Resolution](#-repo-level-issue-resolution)
-- [🤖 Repo-Level Code Generation](#-repo-level-code-generation)
+- [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution
 
-- 🧩 SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
-- 🔍 How to Understand Whole Software Repository? [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.01422)]
+- SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
+- How to Understand Whole Software Repository? [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.01422)]
 
-## 🤖 Repo-Level Code Generation
+## 🤖 Repo-Level Code Completion
 
-- 🤖 Fully Autonomous Programming with Large Language Models [2023-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
+- Fully Autonomous Programming with Large Language Models [2023-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
 
-- 📊 SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
+- SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
