@@ -22,6 +22,8 @@
   
 - How to Understand Whole Software Repository? [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.01422)]
 
+- AutoCodeRover: Autonomous Program Improvement [2024-ISSTA] [[📄 paper](https://dl.acm.org/doi/10.1145/3650212.3680384)] [[🔗 repo](https://github.com/nus-apr/auto-code-rover)
+
 - Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement [2024-arXiv] [[📄 paper](https://arxiv.org/html/2411.00622v1)] [[🔗 repo](https://github.com/LingmaTongyi/Lingma-SWE-GPT)]  
 
 - MarsCode Agent: AI-native Automated Bug Fixing [2024-arXiv] [[📄 paper](https://arxiv.org/html/2411.10213v1)]  
@@ -77,16 +79,18 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 
 - **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)]  https://github.com/FSoft-AI4Code/RepoExec
 
-- **R2C2-Coder**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
+- **R2C2-Bench**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
 
 - **DevEval**: Evaluating Code Generation in Practical Software Projects [2024-ACL-Findings] [[📄 paper](https://aclanthology.org/2024.findings-acl.214.pdf)] [[🔗 repo](https://github.com/seketeam/DevEval)]
 
 - **CodAgentBench**: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges [2024-ACL] [[📄 paper](https://aclanthology.org/2024.acl-long.737/)]
 
-- **R2E**: Turning Any GitHub Repository into a Programming Agent Test Environment [2024-ICML] [[📄 paper](https://proceedings.mlr.press/v235/jain24c.html)] [[🔗 repo](https://r2e.dev/)]  
+- **R2E-Eval**: Turning Any GitHub Repository into a Programming Agent Test Environment [2024-ICML] [[📄 paper](https://proceedings.mlr.press/v235/jain24c.html)] [[🔗 repo](https://r2e.dev/)]  
 
 - **SWE-bench**: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
 
 - **RepoEval**: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
 
 - **CrossCodeEval**: A Diverse and Multilingual Benchmark for Cross-File Code Completion [2023-NeurIPS] [[📄 paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf)] [[🔗 site](https://crosscodeeval.github.io/)]
+
+- **CrossCodeLongEval**: Repoformer: Selective Retrieval for Repository-Level Code Completion [2024-ICML] [[📄 paper](https://arxiv.org/abs/2403.10059)] [[🔗 repo](https://repoformer.github.io/)]
