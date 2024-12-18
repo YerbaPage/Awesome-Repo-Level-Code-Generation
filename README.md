@@ -32,6 +32,8 @@
 
 - RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2407.01489)] [[🔗 repo](https://github.com/ozyyshr/RepoGraph)]  
 
+- SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2410.20285)] [[🔗 repo](https://github.com/aorwall/moatless-tree-search)]
+
 ## 🤖 Repo-Level Code Completion
 
 - Fully Autonomous Programming with Large Language Models [2023-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
