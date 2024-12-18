@@ -73,6 +73,8 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 
 - RAMBO: Enhancing RAG-based Repository-Level Method Body Completion [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2409.15204)] [[🔗 repo](https://github.com/ise-uet-vnu/rambo)]
 
+- ContextModule: Improving Code Completion via Repository-level Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.08063)]
+
 ## 📊 Datasets and Benchmarks
 
 - **REPOCOD**: Can Language Models Replace Programmers? REPOCOD  Says 'Not Yet' [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)]  https://github.com/lt-asset/REPOCOD
@@ -94,3 +96,5 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 - **CrossCodeEval**: A Diverse and Multilingual Benchmark for Cross-File Code Completion [2023-NeurIPS] [[📄 paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf)] [[🔗 site](https://crosscodeeval.github.io/)]
 
 - **CrossCodeLongEval**: Repoformer: Selective Retrieval for Repository-Level Code Completion [2024-ICML] [[📄 paper](https://arxiv.org/abs/2403.10059)] [[🔗 repo](https://repoformer.github.io/)]
+
+- **M2RC-EVAL**: M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21157)] [[🔗 repo](https://github.com/M2RC-Eval-Team/M2RC-Eval)]
