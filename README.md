@@ -98,3 +98,5 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 - **CrossCodeLongEval**: Repoformer: Selective Retrieval for Repository-Level Code Completion [2024-ICML] [[📄 paper](https://arxiv.org/abs/2403.10059)] [[🔗 repo](https://repoformer.github.io/)]
 
 - **M2RC-EVAL**: M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21157)] [[🔗 repo](https://github.com/M2RC-Eval-Team/M2RC-Eval)]
+
+- **ExecRepoBench**: Multi-level Executable Code Completion Evaluation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.11990)] [[🔗 site](https://execrepobench.github.io/)]
