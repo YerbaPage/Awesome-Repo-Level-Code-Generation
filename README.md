@@ -93,6 +93,10 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 
 - **SWE-bench**: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
 
+- **SWE-bench+**: Enhanced Coding Benchmark for LLMs [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2410.06992)]
+- 
+- **SWE-bench Multimodal**: Multimodal Software Engineering Benchmark [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.03859)] [[🔗 site](https://swebench.com/multimodal)]
+
 - **RepoEval**: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
 
 - **CrossCodeEval**: A Diverse and Multilingual Benchmark for Cross-File Code Completion [2023-NeurIPS] [[📄 paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf)] [[🔗 site](https://crosscodeeval.github.io/)]
