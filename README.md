@@ -79,7 +79,7 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 
 ## 📊 Datasets and Benchmarks
 
-- **REPOCOD**: Can Language Models Replace Programmers? REPOCOD  Says 'Not Yet' [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)]  https://github.com/lt-asset/REPOCOD
+- **REPOCOD**: Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)]  https://github.com/lt-asset/REPOCOD
 
 - **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)]  https://github.com/FSoft-AI4Code/RepoExec
 
@@ -94,7 +94,7 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 - **SWE-bench**: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
 
 - **SWE-bench+**: Enhanced Coding Benchmark for LLMs [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2410.06992)]
-- 
+
 - **SWE-bench Multimodal**: Multimodal Software Engineering Benchmark [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.03859)] [[🔗 site](https://swebench.com/multimodal)]
 
 - **RepoEval**: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
