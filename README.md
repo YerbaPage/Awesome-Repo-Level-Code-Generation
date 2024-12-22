@@ -89,6 +89,8 @@ Contextual Information [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.032
 
 - **CodAgentBench**: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges [2024-ACL] [[📄 paper](https://aclanthology.org/2024.acl-long.737/)]
 
+- **RepoBench**: Benchmarking Repository-Level Code Auto-Completion Systems [2024-ICLR] [[📄 paper](https://openreview.net/forum?id=pPjZIOuQuF)] [[🔗 repo](https://github.com/Leolty/repobench)]
+
 - **R2E-Eval**: Turning Any GitHub Repository into a Programming Agent Test Environment [2024-ICML] [[📄 paper](https://proceedings.mlr.press/v235/jain24c.html)] [[🔗 repo](https://r2e.dev/)]  
 
 - **SWE-bench**: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
