@@ -26,6 +26,8 @@
 
 - AutoCodeRover: Autonomous Program Improvement [2024-ISSTA] [[📄 paper](https://dl.acm.org/doi/10.1145/3650212.3680384)] [[🔗 repo](https://github.com/nus-apr/auto-code-rover)
 
+- SpecRover: Code Intent Extraction via LLMs [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2408.02232)]
+
 - Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement [2024-arXiv] [[📄 paper](https://arxiv.org/html/2411.00622v1)] [[🔗 repo](https://github.com/LingmaTongyi/Lingma-SWE-GPT)]  
 
 - MarsCode Agent: AI-native Automated Bug Fixing [2024-arXiv] [[📄 paper](https://arxiv.org/html/2411.10213v1)]  
