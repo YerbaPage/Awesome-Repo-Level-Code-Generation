@@ -18,7 +18,9 @@
 
 ## 💥 Repo-Level Issue Resolution
 
-- SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
+- Globant Code Fixer Agent Whitepaper [2024] [[📄 paper](https://ai.globant.com/wp-content/uploads/2024/11/Whitepaper-Globant-Code-Fixer-Agent.pdf)]
+
+- SWE-Agent: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
   
 - How to Understand Whole Software Repository? [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.01422)]
 
