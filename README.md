@@ -32,6 +32,8 @@
 
 - SpecRover: Code Intent Extraction via LLMs [2024-08-arXiv] [[📄 paper](https://arxiv.org/abs/2408.02232)]
 
+- OpenHands: An Open Platform for AI Software Developers as Generalist Agents [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2407.16741)] [[🔗 repo](https://github.com/All-Hands-AI/OpenHands)]
+
 - AGENTLESS: Demystifying LLM-based Software Engineering Agents [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2407.01489)]
 
 - RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2407.01489)] [[🔗 repo](https://github.com/ozyyshr/RepoGraph)]
