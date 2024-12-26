@@ -12,11 +12,13 @@
 ## 📚 Contents
 
 - [📚 Contents](#-contents)
-- [💥 Repo-Level Issue Resolution](#-repo-level-issue-resolution)
+- [💥 Repo-Level Issue](#-repo-level-issue)
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue Resolution
+## 💥 Repo-Level Issue 
+
+- CODEV: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
 
 - LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues [2024-11-arXiv] [[📄 paper](https://arxiv.org/pdf/2411.13941)]
 
@@ -43,6 +45,8 @@
 - SWE-Agent: Can Language Models Resolve Real-World GitHub Issues? [2024-01-ICLR] [[📄 paper](https://openreview.net/forum?id=VTF8yNQM66)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
 
 ## 🤖 Repo-Level Code Completion
+
+- Improving FIM Code Completions via Context & Curriculum Based Learning [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.16589)]
 
 - ContextModule: Improving Code Completion via Repository-level Contextual Information [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.08063)]
 
@@ -105,6 +109,8 @@
 - **SWE-bench+**: Enhanced Coding Benchmark for LLMs [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2410.06992)]
 
 - **SWE-bench Multimodal**: Multimodal Software Engineering Benchmark [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.03859)] [[🔗 site](https://swebench.com/multimodal)]
+
+- **Visual SWE-bench**: Issue Resolving with Visual Data [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
 
 - **RepoEval**: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
 
