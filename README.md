@@ -90,6 +90,8 @@
 
 ## 📊 Datasets and Benchmarks
 
+- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.04478)]
+
 - **REPOCOD**: Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)]  https://github.com/lt-asset/REPOCOD
 
 - **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)]  https://github.com/FSoft-AI4Code/RepoExec
