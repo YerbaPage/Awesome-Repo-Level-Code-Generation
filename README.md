@@ -30,7 +30,7 @@
 
 - SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement [2024-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2410.20285)] [[🔗 repo](https://github.com/aorwall/moatless-tree-search)]
 
-- AutoCodeRover: Autonomous Program Improvement [2024-09-ISSTA] [[📄 paper](https://dl.acm.org/doi/10.1145/3650212.3680384)] [[🔗 repo](https://github.com/nus-apr/auto-code-rover)
+- AutoCodeRover: Autonomous Program Improvement [2024-09-ISSTA] [[📄 paper](https://dl.acm.org/doi/10.1145/3650212.3680384)] [[🔗 repo](https://github.com/nus-apr/auto-code-rover)]
 
 - SpecRover: Code Intent Extraction via LLMs [2024-08-arXiv] [[📄 paper](https://arxiv.org/abs/2408.02232)]
 
@@ -93,6 +93,8 @@
 - **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.04478)]
 
 - **REPOCOD**: Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)]  https://github.com/lt-asset/REPOCOD
+
+- **Codev-Bench**: How Do LLMs Understand Developer-Centric Code Completion? [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.01353)] [[🔗 repo](https://github.com/LingmaTongyi/Codev-Bench)]
 
 - **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)]  https://github.com/FSoft-AI4Code/RepoExec
 
