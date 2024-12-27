@@ -12,11 +12,11 @@
 ## 📚 Contents
 
 - [📚 Contents](#-contents)
-- [💥 Repo-Level Issue](#-repo-level-issue)
+- [💥 Repo-Level Issue Resolution](#-repo-level-issue-resolution)
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue 
+## 💥 Repo-Level Issue Resolution
 
 - CODEV: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
 
