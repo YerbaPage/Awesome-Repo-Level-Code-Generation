@@ -98,6 +98,8 @@
 
 - **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)]  https://github.com/FSoft-AI4Code/RepoExec
 
+- **CodeRAG-Bench**: Can Retrieval Augment Code Generation? [2024-arXiv] [[📄 paper](http://arxiv.org/abs/2406.14497)] [[🔗 repo](https://github.com/code-rag-bench/code-rag-bench/tree/main)]
+
 - **R2C2-Bench**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
 
 - **DevEval**: Evaluating Code Generation in Practical Software Projects [2024-ACL-Findings] [[📄 paper](https://aclanthology.org/2024.findings-acl.214.pdf)] [[🔗 repo](https://github.com/seketeam/DevEval)]
