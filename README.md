@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
+
 - CODEV: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
 
 - LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues [2024-11-arXiv] [[📄 paper](https://arxiv.org/pdf/2411.13941)]
@@ -117,6 +119,8 @@
 - **SWE-bench Multimodal**: Multimodal Software Engineering Benchmark [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.03859)] [[🔗 site](https://swebench.com/multimodal)]
 
 - **Visual SWE-bench**: Issue Resolving with Visual Data [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
+
+- **SWE-Gym**: Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 - **RepoEval**: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
 
