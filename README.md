@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.05040)] [[🔗 repo](https://github.com/InternLM/SWE-Fixer)]
+
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 - CODEV: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
