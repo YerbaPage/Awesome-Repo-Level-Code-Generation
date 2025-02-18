@@ -18,6 +18,10 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- SWE-Lancer: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
+
+- Evaluating Agent-based Program Repair at Google [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.07531)]
+
 - SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.05040)] [[🔗 repo](https://github.com/InternLM/SWE-Fixer)]
 
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
@@ -113,6 +117,8 @@
 - **RepoBench**: Benchmarking Repository-Level Code Auto-Completion Systems [2024-ICLR] [[📄 paper](https://openreview.net/forum?id=pPjZIOuQuF)] [[🔗 repo](https://github.com/Leolty/repobench)]
 
 - **R2E-Eval**: Turning Any GitHub Repository into a Programming Agent Test Environment [2024-ICML] [[📄 paper](https://proceedings.mlr.press/v235/jain24c.html)] [[🔗 repo](https://r2e.dev/)]  
+
+- **SWE-Lancer**: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
 
 - **SWE-bench**: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
 
