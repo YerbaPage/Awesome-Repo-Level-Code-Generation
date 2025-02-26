@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution [2025-02-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.18449)] [[🔗 repo](https://github.com/facebookresearch/swe-rl)]
+
 - SWE-Lancer: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
 
 - Evaluating Agent-based Program Repair at Google [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.07531)]
