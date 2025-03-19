@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- LocAgent: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
+
 - SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution [2025-02-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.18449)] [[🔗 repo](https://github.com/facebookresearch/swe-rl)]
 
 - SWE-Lancer: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
@@ -99,6 +101,12 @@
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
+
+- **SWEE-Bench & SWA-Bench**: Automated Benchmark Generation for Repository-Level Coding Tasks [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07701)]
+
+- **REPOST-TRAIN**: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07358)] [[🔗 repo](https://github.com/yiqingxyq/RepoST)]
+
+- **Loc-Bench**: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
 
 - **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.04478)]
 
