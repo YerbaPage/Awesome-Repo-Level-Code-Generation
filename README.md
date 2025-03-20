@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- Unveiling Pitfalls: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.12374)]
+
 - LocAgent: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
 
 - SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution [2025-02-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.18449)] [[🔗 repo](https://github.com/facebookresearch/swe-rl)]
