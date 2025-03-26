@@ -104,27 +104,43 @@
 
 ## 📊 Datasets and Benchmarks
 
-- **ProjectEval**: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07010)]
-
 - **SWEE-Bench & SWA-Bench**: Automated Benchmark Generation for Repository-Level Coding Tasks [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07701)]
+
+- **ProjectEval**: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07010)]
 
 - **REPOST-TRAIN**: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07358)] [[🔗 repo](https://github.com/yiqingxyq/RepoST)]
 
 - **Loc-Bench**: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
 
+- **SWE-Lancer**: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-02-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
+
 - **HumanEvo**: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation [2025-ICSE] [[📄 paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a764/251mHzzKizu)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/HumanEvo)]
 
-- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.04478)]
+- **SWE-Gym**: Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
-- **REPOCOD**: Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)]  https://github.com/lt-asset/REPOCOD
+- **Visual SWE-bench**: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
 
-- **Codev-Bench**: How Do LLMs Understand Developer-Centric Code Completion? [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.01353)] [[🔗 repo](https://github.com/LingmaTongyi/Codev-Bench)]
+- **ExecRepoBench**: Multi-level Executable Code Completion Evaluation [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.11990)] [[🔗 site](https://execrepobench.github.io/)]
 
-- **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)]  https://github.com/FSoft-AI4Code/RepoExec
+- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.04478)]
 
-- **CodeRAG-Bench**: Can Retrieval Augment Code Generation? [2024-arXiv] [[📄 paper](http://arxiv.org/abs/2406.14497)] [[🔗 repo](https://github.com/code-rag-bench/code-rag-bench/tree/main)]
+- **REPOCOD**: Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)] [[🔗 repo](https://github.com/lt-asset/REPOCOD)]
 
-- **R2C2-Bench**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
+- **M2RC-EVAL**: M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21157)] [[🔗 repo](https://github.com/M2RC-Eval-Team/M2RC-Eval)]
+
+- **SWE-bench+**: Enhanced Coding Benchmark for LLMs [2024-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2410.06992)]
+
+- **SWE-bench Multimodal**: Multimodal Software Engineering Benchmark [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.03859)] [[🔗 site](https://swebench.com/multimodal)]
+
+- **Codev-Bench**: How Do LLMs Understand Developer-Centric Code Completion? [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.01353)] [[🔗 repo](https://github.com/LingmaTongyi/Codev-Bench)]
+
+- **CodeRAG-Bench**: Can Retrieval Augment Code Generation? [2024-06-arXiv] [[📄 paper](http://arxiv.org/abs/2406.14497)] [[🔗 repo](https://github.com/code-rag-bench/code-rag-bench/tree/main)]
+
+- **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)] [[🔗 repo](https://github.com/FSoft-AI4Code/RepoExec)]
+
+- **R2C2-Bench**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
+
+- **RepoClassBench**: Class-Level Code Generation from Natural Language Using Iterative, Tool-Enhanced Reasoning over Repository [2024-05-arXiv] [[📄 paper](https://arxiv.org/abs/2405.01573)] [[🔗 repo](https://github.com/microsoft/repoclassbench/tree/main)]
 
 - **DevEval**: Evaluating Code Generation in Practical Software Projects [2024-ACL-Findings] [[📄 paper](https://aclanthology.org/2024.findings-acl.214.pdf)] [[🔗 repo](https://github.com/seketeam/DevEval)]
 
@@ -132,26 +148,12 @@
 
 - **RepoBench**: Benchmarking Repository-Level Code Auto-Completion Systems [2024-ICLR] [[📄 paper](https://openreview.net/forum?id=pPjZIOuQuF)] [[🔗 repo](https://github.com/Leolty/repobench)]
 
-- **R2E-Eval**: Turning Any GitHub Repository into a Programming Agent Test Environment [2024-ICML] [[📄 paper](https://proceedings.mlr.press/v235/jain24c.html)] [[🔗 repo](https://r2e.dev/)]  
-
-- **SWE-Lancer**: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
-
 - **SWE-bench**: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[📄 paper](https://arxiv.org/pdf/2310.06770)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
 
-- **SWE-bench+**: Enhanced Coding Benchmark for LLMs [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2410.06992)]
+- **CrossCodeLongEval**: Repoformer: Selective Retrieval for Repository-Level Code Completion [2024-ICML] [[📄 paper](https://arxiv.org/abs/2403.10059)] [[🔗 repo](https://repoformer.github.io/)]
 
-- **SWE-bench Multimodal**: Multimodal Software Engineering Benchmark [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.03859)] [[🔗 site](https://swebench.com/multimodal)]
-
-- **Visual SWE-bench**: Issue Resolving with Visual Data [2024-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
-
-- **SWE-Gym**: Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
+- **R2E-Eval**: Turning Any GitHub Repository into a Programming Agent Test Environment [2024-ICML] [[📄 paper](https://proceedings.mlr.press/v235/jain24c.html)] [[🔗 repo](https://r2e.dev/)]
 
 - **RepoEval**: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
 
 - **CrossCodeEval**: A Diverse and Multilingual Benchmark for Cross-File Code Completion [2023-NeurIPS] [[📄 paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf)] [[🔗 site](https://crosscodeeval.github.io/)]
-
-- **CrossCodeLongEval**: Repoformer: Selective Retrieval for Repository-Level Code Completion [2024-ICML] [[📄 paper](https://arxiv.org/abs/2403.10059)] [[🔗 repo](https://repoformer.github.io/)]
-
-- **M2RC-EVAL**: M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21157)] [[🔗 repo](https://github.com/M2RC-Eval-Team/M2RC-Eval)]
-
-- **ExecRepoBench**: Multi-level Executable Code Completion Evaluation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.11990)] [[🔗 site](https://execrepobench.github.io/)]
