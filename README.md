@@ -91,7 +91,7 @@
 - RepoMinCoder: Improving Repository-Level Code Generation Based on Information Loss Screening [2024-07-Internetware] [[📄 paper](https://dl.acm.org/doi/10.1145/3671016.3674819)]
   
 - CodePlan: Repository-Level Coding using LLMs and Planning [2024-07-FSE] [[📄 paper](https://dl.acm.org/doi/abs/10.1145/3643757)] [[🔗 repo](https://github.com/microsoft/codeplan)]
-  
+
 - RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-10-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
   
 - Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context [2023-09-NeurIPS] [[📄 paper](https://neurips.cc/virtual/2023/poster/70362)] [[🔗 repo](https://aka.ms/monitors4codegen)]
@@ -116,6 +116,8 @@
 
 - **HumanEvo**: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation [2025-ICSE] [[📄 paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a764/251mHzzKizu)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/HumanEvo)]
 
+- **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2025-NAACL] [[📄 paper](https://arxiv.org/abs/2406.11927)] [[🔗 repo](https://github.com/FSoft-AI4Code/RepoExec)]
+
 - **SWE-Gym**: Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 - **Visual SWE-bench**: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
@@ -135,8 +137,6 @@
 - **Codev-Bench**: How Do LLMs Understand Developer-Centric Code Completion? [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.01353)] [[🔗 repo](https://github.com/LingmaTongyi/Codev-Bench)]
 
 - **CodeRAG-Bench**: Can Retrieval Augment Code Generation? [2024-06-arXiv] [[📄 paper](http://arxiv.org/abs/2406.14497)] [[🔗 repo](https://github.com/code-rag-bench/code-rag-bench/tree/main)]
-
-- **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.11927)] [[🔗 repo](https://github.com/FSoft-AI4Code/RepoExec)]
 
 - **R2C2-Bench**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
 
