@@ -104,11 +104,15 @@
 
 ## 📊 Datasets and Benchmarks
 
+- **ProjectEval**: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07010)]
+
 - **SWEE-Bench & SWA-Bench**: Automated Benchmark Generation for Repository-Level Coding Tasks [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07701)]
 
 - **REPOST-TRAIN**: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07358)] [[🔗 repo](https://github.com/yiqingxyq/RepoST)]
 
 - **Loc-Bench**: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
+
+- **HumanEvo**: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation [2025-ICSE] [[📄 paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a764/251mHzzKizu)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/HumanEvo)]
 
 - **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2024-arXiv] [[📄 paper](https://arxiv.org/abs/2412.04478)]
 
