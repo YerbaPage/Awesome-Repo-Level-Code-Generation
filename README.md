@@ -18,6 +18,14 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.23803)] [[🔗 repo](https://github.com/yingweima2022/SWE-Reasoner)]
+
+- Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.21710)]
+
+- CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.22424)]
+
+- DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.14269)] [[🔗 repo](https://github.com/darsagent/DARS-Agent)]
+
 - Unveiling Pitfalls: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.12374)]
 
 - LocAgent: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
@@ -103,6 +111,8 @@
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
+
+- **Multi-SWE-bench**: A Multilingual Benchmark for Issue Resolving [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.02605)] [[🔗 repo](https://github.com/multi-swe-bench/multi-swe-bench)]
 
 - **SWEE-Bench & SWA-Bench**: Automated Benchmark Generation for Repository-Level Coding Tasks [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07701)]
 
