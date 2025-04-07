@@ -24,6 +24,8 @@
 
 - CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.22424)]
 
+- SEAlign: Alignment Training for Software Engineering Agent [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.18455)]
+
 - DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.14269)] [[🔗 repo](https://github.com/darsagent/DARS-Agent)]
 
 - Unveiling Pitfalls: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.12374)]
