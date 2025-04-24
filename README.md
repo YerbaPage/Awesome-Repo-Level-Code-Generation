@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
+
 - Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.23803)] [[🔗 repo](https://github.com/yingweima2022/SWE-Reasoner)]
 
 - Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.21710)]
@@ -113,6 +115,8 @@
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
+
+- **SWE-PolyBench**: A multi-language benchmark for repository level evaluation of coding agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.08703)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-PolyBench)]
 
 - **Multi-SWE-bench**: A Multilingual Benchmark for Issue Resolving [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.02605)] [[🔗 repo](https://github.com/multi-swe-bench/multi-swe-bench)]
 
