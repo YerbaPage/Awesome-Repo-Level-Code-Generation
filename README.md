@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- SWE-smith: Scaling Data for Software Engineering Agents [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
+
 - SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
 
 - Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.23803)] [[🔗 repo](https://github.com/yingweima2022/SWE-Reasoner)]
