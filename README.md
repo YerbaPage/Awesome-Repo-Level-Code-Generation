@@ -22,6 +22,8 @@
 
 - SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
 
+- Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study  [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.15223)] 
+
 - Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.23803)] [[🔗 repo](https://github.com/yingweima2022/SWE-Reasoner)]
 
 - Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.21710)]
