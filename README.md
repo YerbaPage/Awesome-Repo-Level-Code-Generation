@@ -76,6 +76,16 @@
 
 ## 🤖 Repo-Level Code Completion
 
+- RTLRepoCoder: Repository-Level RTL Code Completion through the Combination of Fine-Tuning and Retrieval Augmentation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.08862)]
+
+- Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs [2025-04-AAAI] [[📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/34782)] [[🔗 repo](https://github.com/Hambaobao/HCP-Coder)]
+
+- CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.10046)]
+
+- What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.20589)]
+
+- SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.18793)] [[🔗 repo](https://anonymous.4open.science/r/SolEval-1C06/)]
+
 - Improving FIM Code Completions via Context & Curriculum Based Learning [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.16589)]
 
 - ContextModule: Improving Code Completion via Repository-level Contextual Information [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.08063)]
@@ -85,8 +95,6 @@
 - RAMBO: Enhancing RAG-based Repository-Level Method Body Completion [2024-09-arXiv] [[📄 paper](https://arxiv.org/abs/2409.15204)] [[🔗 repo](https://github.com/ise-uet-vnu/rambo)]
   
 - RLCoder: Reinforcement Learning for Repository-Level Code Completion [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2407.19487)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/RLCoder)]
-  
-- Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.18294)] [[🔗 repo](https://github.com/Hambaobao/HCP-Coder)]
   
 - STALL+: Boosting LLM-based Repository-level Code Completion with Static Analysis [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.10018)]
   
@@ -133,6 +141,8 @@
 - **Loc-Bench**: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
 
 - **SWE-Lancer**: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-02-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
+
+- **SolEval**: Benchmarking Large Language Models for Repository-level Solidity Code Generation [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.18793)] [[🔗 repo](https://anonymous.4open.science/r/SolEval-1C06/)]
 
 - **HumanEvo**: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation [2025-ICSE] [[📄 paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a764/251mHzzKizu)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/HumanEvo)]
 
