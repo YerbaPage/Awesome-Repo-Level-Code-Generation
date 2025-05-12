@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/last-commit/YerbaPage/Awesome-Repo-Level-Code-Generation">
 </p>
 
-🌟 A curated list of awesome repository-level code generation research papers and resources. If you want to contribute to this list (please do), feel free to send me a pull request. 🚀
+🌟 A curated list of awesome repository-level code generation research papers and resources. If you want to contribute to this list (please do), feel free to send me a pull request. 🚀 If you have any further questions, feel free to contact [Yuling Shi](https://yerbasite.github.io) or [Xiaodong Gu](https://guxd.github.io) at SJTU.
 
 ## 📚 Contents
 
