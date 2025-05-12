@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/last-commit/YerbaPage/Awesome-Repo-Level-Code-Generation">
 </p>
 
-🌟 A curated list of awesome repository-level code generation research papers and resources. If you want to contribute to this list (please do), feel free to send me a pull request. 🚀 If you have any further questions, feel free to contact [Yuling Shi](https://yerbasite.github.io) or [Xiaodong Gu](https://guxd.github.io) at SJTU.
+🌟 A curated list of awesome repository-level code generation research papers and resources. If you want to contribute to this list (please do), feel free to send me a pull request. 🚀 If you have any further questions, feel free to contact [Yuling Shi](https://yerbasite.github.io) or [Xiaodong Gu](https://guxd.github.io) (SJTU).
 
 ## 📚 Contents
 
@@ -18,7 +18,7 @@
 
 ## 💥 Repo-Level Issue Resolution
 
-- SWE-smith: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
+- SWE-Smith: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
 
 - SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
 
