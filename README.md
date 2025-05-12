@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
-  <img src="https://img.shields.io/github/stars/YerbaPage/Awesome-Repo-Level-Code-Generation?color=yellow&label=⭐ Stars">
+  <img src="https://img.shields.io/github/stars/YerbaPage/Awesome-Repo-Level-Code-Generation">
   <img src="https://img.shields.io/badge/PRs-Welcome-red">
-  <img src="https://img.shields.io/github/last-commit/YerbaPage/Awesome-Repo-Level-Code-Generation?label=⏰ Last%20Commit">
+  <img src="https://img.shields.io/github/last-commit/YerbaPage/Awesome-Repo-Level-Code-Generation">
 </p>
 
 🌟 A curated list of awesome repository-level code generation research papers and resources. If you want to contribute to this list (please do), feel free to send me a pull request. 🚀
