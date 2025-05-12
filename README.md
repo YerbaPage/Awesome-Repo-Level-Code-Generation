@@ -18,7 +18,7 @@
 
 ## 💥 Repo-Level Issue Resolution
 
-- SWE-smith: Scaling Data for Software Engineering Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
+- SWE-smith: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
 
 - SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
 
@@ -119,6 +119,8 @@
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
+
+- **OmniGIRL**: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution [2025-05-ISSTA] [[📄 paper](https://arxiv.org/abs/2505.04606)]
 
 - **SWE-PolyBench**: A multi-language benchmark for repository level evaluation of coding agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.08703)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-PolyBench)]
 
