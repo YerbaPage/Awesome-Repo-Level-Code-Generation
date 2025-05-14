@@ -76,6 +76,8 @@
 
 ## 🤖 Repo-Level Code Completion
 
+- CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [2025-04-NAACL] [[📄 paper](https://aclanthology.org/2025.naacl-long.7/)]
+
 - RTLRepoCoder: Repository-Level RTL Code Completion through the Combination of Fine-Tuning and Retrieval Augmentation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.08862)]
 
 - Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs [2025-04-AAAI] [[📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/34782)] [[🔗 repo](https://github.com/Hambaobao/HCP-Coder)]
@@ -93,7 +95,7 @@
 - RepoGenReflex: Enhancing Repository-Level Code Completion with Verbal Reinforcement and Retrieval-Augmented Generation [2024-09-arXiv] [[📄 paper](https://arxiv.org/abs/2409.13122)]
   
 - RAMBO: Enhancing RAG-based Repository-Level Method Body Completion [2024-09-arXiv] [[📄 paper](https://arxiv.org/abs/2409.15204)] [[🔗 repo](https://github.com/ise-uet-vnu/rambo)]
-  
+
 - RLCoder: Reinforcement Learning for Repository-Level Code Completion [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2407.19487)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/RLCoder)]
   
 - STALL+: Boosting LLM-based Repository-level Code Completion with Static Analysis [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.10018)]
