@@ -76,6 +76,8 @@
 
 ## 🤖 Repo-Level Code Completion
 
+- CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.10046)]
+
 - CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [2025-04-NAACL] [[📄 paper](https://aclanthology.org/2025.naacl-long.7/)]
 
 - RTLRepoCoder: Repository-Level RTL Code Completion through the Combination of Fine-Tuning and Retrieval Augmentation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.08862)]
@@ -129,6 +131,8 @@
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
+
+- **FEA-Bench**: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation [2025-05-ACL] [[📄 paper](https://arxiv.org/abs/2503.06680)] [[🔗 repo](https://github.com/microsoft/FEA-Bench)]
 
 - **OmniGIRL**: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution [2025-05-ISSTA] [[📄 paper](https://arxiv.org/abs/2505.04606)]
 
