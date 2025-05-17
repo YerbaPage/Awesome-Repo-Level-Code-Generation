@@ -162,7 +162,7 @@
 
 - **ExecRepoBench**: Multi-level Executable Code Completion Evaluation [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.11990)] [[🔗 site](https://execrepobench.github.io/)]
 
-- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.04478)]
+- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2025-NAACL (Oral)] [[📄 paper](https://arxiv.org/abs/2412.04478)][[🔗 Website](https://lib-evolution-eval.github.io/)]
 
 - **REPOCOD**: Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)] [[🔗 repo](https://github.com/lt-asset/REPOCOD)]
 
