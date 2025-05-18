@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning [2025-05-arXiv] [[📄 blog](https://novasky-ai.notion.site/skyrl-v0)] [[🔗 repo](https://github.com/novasky-ai/skyrl-v0)]
+
 - SWE-Smith: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
 
 - SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
@@ -140,6 +142,8 @@
 
 - **Multi-SWE-bench**: A Multilingual Benchmark for Issue Resolving [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.02605)] [[🔗 repo](https://github.com/multi-swe-bench/multi-swe-bench)]
 
+- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2025-04-NAACL] [[📄 paper](https://arxiv.org/abs/2412.04478)][[🔗 Website](https://lib-evolution-eval.github.io/)]
+
 - **SWEE-Bench & SWA-Bench**: Automated Benchmark Generation for Repository-Level Coding Tasks [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07701)]
 
 - **ProjectEval**: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07010)]
@@ -161,8 +165,6 @@
 - **Visual SWE-bench**: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
 
 - **ExecRepoBench**: Multi-level Executable Code Completion Evaluation [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.11990)] [[🔗 site](https://execrepobench.github.io/)]
-
-- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2025-NAACL (Oral)] [[📄 paper](https://arxiv.org/abs/2412.04478)][[🔗 Website](https://lib-evolution-eval.github.io/)]
 
 - **REPOCOD**: Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.21647)] [[🔗 repo](https://github.com/lt-asset/REPOCOD)]
 
