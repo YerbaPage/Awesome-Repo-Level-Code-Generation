@@ -18,7 +18,7 @@
 
 ## 💥 Repo-Level Issue Resolution
 
-- Putting It All into Context: Simplifying Agents with LCLMs [2025-05-arXiv] [[📄 blog](https://arxiv.org/abs/2505.08120)]
+- Putting It All into Context: Simplifying Agents with LCLMs [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.08120)]
 
 - SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning [2025-05-arXiv] [[📄 blog](https://novasky-ai.notion.site/skyrl-v0)] [[🔗 repo](https://github.com/novasky-ai/skyrl-v0)]
 
