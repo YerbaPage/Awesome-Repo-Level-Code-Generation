@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- DGM: A Diverse and Generalizable Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
+
 - Putting It All into Context: Simplifying Agents with LCLMs [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.08120)]
 
 - SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning [2025-05-arXiv] [[📄 blog](https://novasky-ai.notion.site/skyrl-v0)] [[🔗 repo](https://github.com/novasky-ai/skyrl-v0)]
