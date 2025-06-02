@@ -16,7 +16,7 @@
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue Resolution
+## 💥 Repo-Level Issue Resolution  
 
 - SWE-bench-Live: A Live Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
@@ -139,6 +139,8 @@
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
+
+- **SWE-rebench**: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.20411)] [[🕸️ website](https://swe-rebench.com/leaderboard)]
 
 - **SWE-bench-Live**: A Live Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
