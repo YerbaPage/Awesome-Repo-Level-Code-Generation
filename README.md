@@ -16,9 +16,7 @@
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue Resolution
-- SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.20411)] [[🕸️ website](https://swe-rebench.com/leaderboard)]
-  
+## 💥 Repo-Level Issue Resolution  
 - DGM: A Diverse and Generalizable Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
 
 - Putting It All into Context: Simplifying Agents with LCLMs [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.08120)]
@@ -138,6 +136,7 @@
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
 
 ## 📊 Datasets and Benchmarks
+- SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.20411)] [[🕸️ website](https://swe-rebench.com/leaderboard)]
 
 - **FEA-Bench**: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation [2025-05-ACL] [[📄 paper](https://arxiv.org/abs/2503.06680)] [[🔗 repo](https://github.com/microsoft/FEA-Bench)]
 
