@@ -17,7 +17,8 @@
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution
-
+- SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.20411)] [[🕸️ website](https://swe-rebench.com/leaderboard)]
+  
 - DGM: A Diverse and Generalizable Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
 
 - Putting It All into Context: Simplifying Agents with LCLMs [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.08120)]
