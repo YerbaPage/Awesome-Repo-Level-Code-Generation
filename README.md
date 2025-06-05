@@ -130,6 +130,8 @@
   
 - CodePlan: Repository-Level Coding using LLMs and Planning [2024-07-FSE] [[📄 paper](https://dl.acm.org/doi/abs/10.1145/3643757)] [[🔗 repo](https://github.com/microsoft/codeplan)]
 
+- DraCo: Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion [2024-05-ACL] [[📄 paper](https://aclanthology.org/2024.acl-long.431/)] [[🔗 repo](https://github.com/nju-websoft/DraCo)]
+
 - RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-10-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
   
 - Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context [2023-09-NeurIPS] [[📄 paper](https://neurips.cc/virtual/2023/poster/70362)] [[🔗 repo](https://aka.ms/monitors4codegen)]
