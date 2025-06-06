@@ -22,7 +22,7 @@
 
 - SWE-bench-Live: A Live Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
-- DGM: A Diverse and Generalizable Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
+- Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
 
 - SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.16975)] [[🔗 repo](https://github.com/justLittleWhite/SWE-Dev)]
 
