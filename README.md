@@ -100,6 +100,8 @@
 
 - What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.20589)]
 
+- REPOFILTER: Adaptive Retrieval Context Trimming for Repository-Level Code Completion [2025-04-OpenReview] [[📄 paper](https://openreview.net/forum?id=oOSeOEXrFA)]
+
 - SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.18793)] [[🔗 repo](https://anonymous.4open.science/r/SolEval-1C06/)]
 
 - Improving FIM Code Completions via Context & Curriculum Based Learning [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.16589)]
