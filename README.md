@@ -17,6 +17,7 @@
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution  
+- OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 
 - SWE-bench-Live: A Live Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
