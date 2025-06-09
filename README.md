@@ -19,9 +19,11 @@
 ## 💥 Repo-Level Issue Resolution  
 - OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 
+- CoRet: Improved Retriever for Code Editing [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.24715)] 
+
 - SWE-bench-Live: A Live Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
-- DGM: A Diverse and Generalizable Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
+- Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
 
 - SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.16975)] [[🔗 repo](https://github.com/justLittleWhite/SWE-Dev)]
 
@@ -99,6 +101,8 @@
 
 - What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.20589)]
 
+- REPOFILTER: Adaptive Retrieval Context Trimming for Repository-Level Code Completion [2025-04-OpenReview] [[📄 paper](https://openreview.net/forum?id=oOSeOEXrFA)]
+
 - SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.18793)] [[🔗 repo](https://anonymous.4open.science/r/SolEval-1C06/)]
 
 - Improving FIM Code Completions via Context & Curriculum Based Learning [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.16589)]
@@ -130,6 +134,8 @@
 - RepoMinCoder: Improving Repository-Level Code Generation Based on Information Loss Screening [2024-07-Internetware] [[📄 paper](https://dl.acm.org/doi/10.1145/3671016.3674819)]
   
 - CodePlan: Repository-Level Coding using LLMs and Planning [2024-07-FSE] [[📄 paper](https://dl.acm.org/doi/abs/10.1145/3643757)] [[🔗 repo](https://github.com/microsoft/codeplan)]
+
+- DraCo: Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion [2024-05-ACL] [[📄 paper](https://aclanthology.org/2024.acl-long.431/)] [[🔗 repo](https://github.com/nju-websoft/DraCo)]
 
 - RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-10-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
   
