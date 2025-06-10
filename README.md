@@ -17,6 +17,7 @@
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution  
+
 - OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 
 - CoRet: Improved Retriever for Code Editing [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.24715)] 
@@ -58,6 +59,8 @@
 - Evaluating Agent-based Program Repair at Google [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.07531)]
 
 - SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.05040)] [[🔗 repo](https://github.com/InternLM/SWE-Fixer)]
+
+- CodeMonkeys: Scaling Test-Time Compute for Software Engineering [2025-01-arXiv] [[📄 paper](https://arxiv.org/abs/2501.14723)] [[🔗 repo](https://github.com/google-research/code-monkeys)]
 
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
