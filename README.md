@@ -112,6 +112,8 @@
 
 - ContextModule: Improving Code Completion via Repository-level Contextual Information [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.08063)]
 
+- A^3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware [2024-12-TSE] [[📄 paper](https://www.computer.org/csdl/journal/ts/2024/12/10734067/21iLh4j0oG4)]
+
 - RepoGenReflex: Enhancing Repository-Level Code Completion with Verbal Reinforcement and Retrieval-Augmented Generation [2024-09-arXiv] [[📄 paper](https://arxiv.org/abs/2409.13122)]
   
 - RAMBO: Enhancing RAG-based Repository-Level Method Body Completion [2024-09-arXiv] [[📄 paper](https://arxiv.org/abs/2409.15204)] [[🔗 repo](https://github.com/ise-uet-vnu/rambo)]
