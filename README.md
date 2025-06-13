@@ -18,6 +18,8 @@
 
 ## 💥 Repo-Level Issue Resolution  
 
+- SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
+
 - OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 
 - CoRet: Improved Retriever for Code Editing [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.24715)] 
