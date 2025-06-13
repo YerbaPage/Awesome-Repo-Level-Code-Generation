@@ -103,8 +103,6 @@
 
 - Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs [2025-04-AAAI] [[📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/34782)] [[🔗 repo](https://github.com/Hambaobao/HCP-Coder)]
 
-- CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.10046)]
-
 - What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.20589)]
 
 - REPOFILTER: Adaptive Retrieval Context Trimming for Repository-Level Code Completion [2025-04-OpenReview] [[📄 paper](https://openreview.net/forum?id=oOSeOEXrFA)]
