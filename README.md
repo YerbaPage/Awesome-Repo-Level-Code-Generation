@@ -17,6 +17,9 @@
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution  
+
+- SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.10954v1)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/swe-factory)]
+
 - EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.10484)]
 
 - SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
