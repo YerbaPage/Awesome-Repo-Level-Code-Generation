@@ -14,6 +14,7 @@
 - [📚 Contents](#-contents)
 - [💥 Repo-Level Issue Resolution](#-repo-level-issue-resolution)
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
+- [🔄 Repo-Level Code Translation](#-repo-level-code-translation)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution  
@@ -153,6 +154,14 @@
 - Repository-Level Prompt Generation for Large Language Models of Code [2023-06-ICML] [[📄 paper](https://proceedings.mlr.press/v202/shrivastava23a.html)] [[🔗 repo](https://github.com/shrivastavadisha/repo_level_prompt_generation)]
   
 - Fully Autonomous Programming with Large Language Models [2023-06-GECCO] [[📄 paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[🔗 repo](https://github.com/KoutchemeCharles/aied2023)]
+
+## 🔄 Repo-Level Code Translation
+
+- Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code [2024-04-ICSE] [[📄 paper](https://doi.org/10.1145/3597503.3639226)] [[🔗 repo](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical)]
+
+- C2SaferRust: Transforming C Projects into Safer Rust with NeuroSymbolic Techniques [2025-01-arXiv] [[📄 paper](https://www.arxiv.org/pdf/2501.14257)] [[🔗 repo](https://github.com/vikramnitin9/c2saferrust)]
+
+- Scalable, Validated Code Translation of Entire Projects using Large Language Models [2025-06-PLDI] [[📄 paper](https://doi.org/10.5281/zenodo.15242640)] 
 
 ## 📊 Datasets and Benchmarks
 
