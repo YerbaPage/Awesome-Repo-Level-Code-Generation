@@ -19,6 +19,14 @@
 
 ## 💥 Repo-Level Issue Resolution  
 
+- Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.11000)]
+
+- SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.10954v1)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/swe-factory)]
+
+- EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.10484)]
+
+- UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench [ACL-2025] [[📄 paper](https://arxiv.org/abs/2506.09289)]
+
 - SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
 
 - OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
@@ -103,13 +111,9 @@
 
 - Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs [2025-04-AAAI] [[📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/34782)] [[🔗 repo](https://github.com/Hambaobao/HCP-Coder)]
 
-- CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.10046)]
-
 - What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.20589)]
 
 - REPOFILTER: Adaptive Retrieval Context Trimming for Repository-Level Code Completion [2025-04-OpenReview] [[📄 paper](https://openreview.net/forum?id=oOSeOEXrFA)]
-
-- SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.18793)] [[🔗 repo](https://anonymous.4open.science/r/SolEval-1C06/)]
 
 - Improving FIM Code Completions via Context & Curriculum Based Learning [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.16589)]
 
