@@ -163,6 +163,9 @@
 
 - Scalable, Validated Code Translation of Entire Projects using Large Language Models [2025-06-PLDI] [[📄 paper](https://doi.org/10.5281/zenodo.15242640)] 
 
+- Syzygy: Dual Code-Test C to (safe) Rust Translation using LLMs and Dynamic Analysis [2024-12-arxiv] [[📄 paper](https://arxiv.org/pdf/2412.14234)] [[🕸️ website](https://syzygy-project.github.io/)]
+
+
 ## 📊 Datasets and Benchmarks
 
 - **SWE-rebench**: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.20411)] [[🕸️ website](https://swe-rebench.com/leaderboard)]
@@ -233,6 +236,7 @@
 
 - **CrossCodeEval**: A Diverse and Multilingual Benchmark for Cross-File Code Completion [2023-NeurIPS] [[📄 paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf)] [[🔗 site](https://crosscodeeval.github.io/)]
 
+- **Skeleton-Guided-Translation**: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation [2025-01-arxiv] [[📄 paper](https://arxiv.org/abs/2501.16050)] [[🔗 repo](https://github.com/microsoft/TransRepo)]
 
 ## Star History
 
