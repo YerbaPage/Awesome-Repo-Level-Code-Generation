@@ -19,21 +19,13 @@
 
 ## 💥 Repo-Level Issue Resolution  
 
-- Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.11000)]
-
-- SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.10954v1)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/swe-factory)]
+- Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.11425)]
 
 - EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.10484)]
-
-- UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench [ACL-2025] [[📄 paper](https://arxiv.org/abs/2506.09289)]
-
-- SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
 
 - OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 
 - CoRet: Improved Retriever for Code Editing [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.24715)] 
-
-- SWE-bench-Live: A Live Benchmark for Repository-Level Issue Resolution [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
 - Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
 
@@ -42,12 +34,6 @@
 - Putting It All into Context: Simplifying Agents with LCLMs [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.08120)]
 
 - SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning [2025-05-arXiv] [[📄 blog](https://novasky-ai.notion.site/skyrl-v0)] [[🔗 repo](https://github.com/novasky-ai/skyrl-v0)]
-
-- SWE-Smith: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
-
-- SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
-
-- Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study  [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.15223)] 
 
 - Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.23803)] [[🔗 repo](https://github.com/yingweima2022/SWE-Reasoner)]
 
@@ -59,15 +45,9 @@
 
 - DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.14269)] [[🔗 repo](https://github.com/darsagent/DARS-Agent)]
 
-- Unveiling Pitfalls: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.12374)]
-
 - LocAgent: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
 
 - SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution [2025-02-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.18449)] [[🔗 repo](https://github.com/facebookresearch/swe-rl)]
-
-- SWE-Lancer: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
-
-- Evaluating Agent-based Program Repair at Google [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.07531)]
 
 - SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.05040)] [[🔗 repo](https://github.com/InternLM/SWE-Fixer)]
 
@@ -81,7 +61,7 @@
 
 - Globant Code Fixer Agent Whitepaper [2024-11] [[📄 paper](https://ai.globant.com/wp-content/uploads/2024/11/Whitepaper-Globant-Code-Fixer-Agent.pdf)]
 
-- MarsCode Agent: AI-native Automated Bug Fixing [2024-11-arXiv] [[📄 paper](https://arxiv.org/html/2411.10213v1)]
+- MarsCode Agent: AI-native Automated Bug Fixing [2024-11-arXiv] [[📄 paper](https://arxiv.org/abs/2409.00899)]
 
 - Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement [2024-11-arXiv] [[📄 paper](https://arxiv.org/html/2411.00622v1)] [[🔗 repo](https://github.com/LingmaTongyi/Lingma-SWE-GPT)]
 
@@ -95,11 +75,11 @@
 
 - AGENTLESS: Demystifying LLM-based Software Engineering Agents [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2407.01489)]
 
-- RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2407.01489)] [[🔗 repo](https://github.com/ozyyshr/RepoGraph)]
+- RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2410.14684)] [[🔗 repo](https://github.com/ozyyshr/RepoGraph)]
 
-- How to Understand Whole Software Repository? [2024-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.01422)]
+- Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01422v2)]
 
-- SWE-Agent: Can Language Models Resolve Real-World GitHub Issues? [2024-01-ICLR] [[📄 paper](https://openreview.net/forum?id=VTF8yNQM66)] [[🔗 repo](https://github.com/princeton-nlp/SWE-bench)]
+- SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering [2024-NeurIPS] [[📄 paper](https://arxiv.org/abs/2405.15793)] [[🔗 repo](https://github.com/SWE-agent/SWE-agent)]
 
 ## 🤖 Repo-Level Code Completion
 
@@ -171,6 +151,24 @@
 
 
 ## 📊 Datasets and Benchmarks
+
+- **SWE-Factory**: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.10954v1)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/swe-factory)]
+
+- **UTBoost**: Rigorous Evaluation of Coding Agents on SWE-Bench [ACL-2025] [[📄 paper](https://arxiv.org/abs/2506.09289)]
+
+- **SWE-Flow**: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
+
+- **SWE-Smith**: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
+
+- **SWE-Synth**: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
+
+- Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study  [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.15223)] 
+
+- **Unveiling Pitfalls**: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.12374)]
+
+- **SWE-Lancer**: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
+
+- Evaluating Agent-based Program Repair at Google [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.07531)]
 
 - **SWE-rebench**: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.20411)] [[🕸️ website](https://swe-rebench.com/leaderboard)]
 
