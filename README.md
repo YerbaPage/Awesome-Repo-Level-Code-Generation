@@ -19,6 +19,8 @@
 
 ## 💥 Repo-Level Issue Resolution  
 
+- The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.12286)]
+
 - Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.11425)]
 
 - EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.10484)]
