@@ -151,6 +151,23 @@
 
 - Syzygy: Dual Code-Test C to (safe) Rust Translation using LLMs and Dynamic Analysis [2024-12-arxiv] [[📄 paper](https://arxiv.org/pdf/2412.14234)] [[🕸️ website](https://syzygy-project.github.io/)]
 
+## 🔍 Repo-Level Code QA
+
+- RepoChat: An LLM-Powered Chatbot for GitHub Repository Question-Answering [[🔗 repo](https://2025.msrconf.org/details/msr-2025-data-and-tool-showcase-track/35/RepoChat-An-LLM-Powered-Chatbot-for-GitHub-Repository-Question-Answering)]  
+
+- RepoChat Arena [[🔗 repo](https://blog.lmarena.ai/blog/2025/repochat-arena/)]  
+
+- LongCodeBench: Evaluating Coding LLMs at 1M Context Windows [[📄 paper](https://arxiv.org/pdf/2505.07897)]  ]
+
+- CCodeQueries: A Dataset of Semantic Queries over Code [[📄 paper](https://arxiv.org/abs/2209.08372)]  
+
+- CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering
+[[📄 paper](https://arxiv.org/pdf/2501.03447)]
+
+- LocAgent: Graph-Guided LLM Agents for Code Localization [[📄 paper](https://arxiv.org/abs/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
+
+- Decompositional Reasoning for Graph Retrieval with Large Language Models [[📄 paper](https://arxiv.org/abs/2506.13380)]
+
 
 ## 📊 Datasets and Benchmarks
 
