@@ -15,6 +15,7 @@
 - [💥 Repo-Level Issue Resolution](#-repo-level-issue-resolution)
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [🔄 Repo-Level Code Translation](#-repo-level-code-translation)
+- [🔍 Repo-Level Code QA](#-repo-level-code-qa)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution  
@@ -153,20 +154,19 @@
 
 ## 🔍 Repo-Level Code QA
 
-- RepoChat: An LLM-Powered Chatbot for GitHub Repository Question-Answering [[🔗 repo](https://2025.msrconf.org/details/msr-2025-data-and-tool-showcase-track/35/RepoChat-An-LLM-Powered-Chatbot-for-GitHub-Repository-Question-Answering)]  
+- Decompositional Reasoning for Graph Retrieval with Large Language Models [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.13380)]
 
-- RepoChat Arena [[🔗 repo](https://blog.lmarena.ai/blog/2025/repochat-arena/)]  
+- LongCodeBench: Evaluating Coding LLMs at 1M Context Windows [2025-05-arXiv] [[📄 paper](https://arxiv.org/pdf/2505.07897)]
 
-- LongCodeBench: Evaluating Coding LLMs at 1M Context Windows [[📄 paper](https://arxiv.org/pdf/2505.07897)]  ]
+- LocAgent: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
 
-- CCodeQueries: A Dataset of Semantic Queries over Code [[📄 paper](https://arxiv.org/abs/2209.08372)]  
+- CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.03447)]
 
-- CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering
-[[📄 paper](https://arxiv.org/pdf/2501.03447)]
+- RepoChat Arena [2025-Blog] [[🔗 repo](https://blog.lmarena.ai/blog/2025/repochat-arena/)]
 
-- LocAgent: Graph-Guided LLM Agents for Code Localization [[📄 paper](https://arxiv.org/abs/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
+- RepoChat: An LLM-Powered Chatbot for GitHub Repository Question-Answering [MSR-2025] [[🔗 repo](https://2025.msrconf.org/details/msr-2025-data-and-tool-showcase-track/35/RepoChat-An-LLM-Powered-Chatbot-for-GitHub-Repository-Question-Answering)]
 
-- Decompositional Reasoning for Graph Retrieval with Large Language Models [[📄 paper](https://arxiv.org/abs/2506.13380)]
+- CCodeQueries: A Dataset of Semantic Queries over Code [2022-09-arXiv] [[📄 paper](https://arxiv.org/abs/2209.08372)]
 
 
 ## 📊 Datasets and Benchmarks
