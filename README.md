@@ -80,6 +80,8 @@
 
 - RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [2024-07-arXiv] [[📄 paper](https://arxiv.org/abs/2410.14684)] [[🔗 repo](https://github.com/ozyyshr/RepoGraph)]
 
+- CodeR: Issue Resolving with Multi-Agent and Task Graphs [2024-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2406.01304)] [[🔗 repo](https://github.com/NL2Code/CodeR)]
+
 - Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01422v2)]
 
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering [2024-NeurIPS] [[📄 paper](https://arxiv.org/abs/2405.15793)] [[🔗 repo](https://github.com/SWE-agent/SWE-agent)]
