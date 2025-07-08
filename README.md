@@ -50,6 +50,8 @@
 
 - LocAgent: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
 
+- SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.20127)]
+
 - SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution [2025-02-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.18449)] [[🔗 repo](https://github.com/facebookresearch/swe-rl)]
 
 - SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.05040)] [[🔗 repo](https://github.com/InternLM/SWE-Fixer)]
