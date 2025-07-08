@@ -38,6 +38,8 @@
 
 - SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning [2025-05-arXiv] [[📄 blog](https://novasky-ai.notion.site/skyrl-v0)] [[🔗 repo](https://github.com/novasky-ai/skyrl-v0)]
 
+- AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions [2025-FSE] [[📄 paper](https://arxiv.org/pdf/2411.18015)]
+
 - Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.23803)] [[🔗 repo](https://github.com/yingweima2022/SWE-Reasoner)]
 
 - Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.21710)]
