@@ -176,12 +176,14 @@
 
 
 ## 📊 Datasets and Benchmarks
-
+  
 - **SWE-Factory**: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.10954v1)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 
 - **UTBoost**: Rigorous Evaluation of Coding Agents on SWE-Bench [ACL-2025] [[📄 paper](https://arxiv.org/abs/2506.09289)]
 
 - **SWE-Flow**: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
+
+- **OmniGIRL**: OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.04606)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
 
 - **SWE-Smith**: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
 
@@ -226,6 +228,8 @@
 - **RepoExec**: On the Impacts of Contexts on Repository-Level Code Generation [2025-NAACL] [[📄 paper](https://arxiv.org/abs/2406.11927)] [[🔗 repo](https://github.com/FSoft-AI4Code/RepoExec)]
 
 - **SWE-Gym**: Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
+
+- **RepoTransBench**: RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.17744)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/RepoTransBench)]
 
 - **Visual SWE-bench**: Issue Resolving with Visual Data [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.17315)] [[🔗 repo](https://github.com/luolin101/CodeV)]
 
