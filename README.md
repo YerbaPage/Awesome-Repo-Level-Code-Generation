@@ -91,6 +91,7 @@
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering [2024-NeurIPS] [[📄 paper](https://arxiv.org/abs/2405.15793)] [[🔗 repo](https://github.com/SWE-agent/SWE-agent)]
 
 ## 🤖 Repo-Level Code Completion
+- Enhancing Project-Specific Code Completion by Inferring Internal API Information [2025-TSE-EarlyAccess] [[📄 paper](https://ieeexplore.ieee.org/abstract/document/11096713)] [[🔗 repo](https://github.com/ZJU-CTAG/InferCom)]
 
 - CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.10046)]
 
