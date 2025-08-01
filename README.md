@@ -18,7 +18,11 @@
 - [🔍 Repo-Level Code QA](#-repo-level-code-qa)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue Resolution  
+## 💥 Repo-Level Issue Resolution 
+
+- SWE-Exp: Experience-Driven Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23361)] [[🔗 repo](https://github.com/YerbaPage/SWE-Exp)]
+
+- SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23348)] [[🔗 repo](https://github.com/YerbaPage/SWE-Debate)]
 
 - The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.12286)]
 
