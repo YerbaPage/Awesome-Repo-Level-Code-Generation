@@ -177,7 +177,7 @@
 
 - RepoChat: An LLM-Powered Chatbot for GitHub Repository Question-Answering [MSR-2025] [[🔗 repo](https://2025.msrconf.org/details/msr-2025-data-and-tool-showcase-track/35/RepoChat-An-LLM-Powered-Chatbot-for-GitHub-Repository-Question-Answering)]
 
-- CCodeQueries: A Dataset of Semantic Queries over Code [2022-09-arXiv] [[📄 paper](https://arxiv.org/abs/2209.08372)]
+- CodeQueries: A Dataset of Semantic Queries over Code [2022-09-arXiv] [[📄 paper](https://arxiv.org/abs/2209.08372)]
 
 
 ## 📊 Datasets and Benchmarks
