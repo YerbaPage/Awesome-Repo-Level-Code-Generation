@@ -156,6 +156,8 @@
 
 ## 🔄 Repo-Level Code Translation
 
+- EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.04295)]
+
 - Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code [2024-04-ICSE] [[📄 paper](https://doi.org/10.1145/3597503.3639226)] [[🔗 repo](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical)]
 
 - C2SaferRust: Transforming C Projects into Safer Rust with NeuroSymbolic Techniques [2025-01-arXiv] [[📄 paper](https://www.arxiv.org/pdf/2501.14257)] [[🔗 repo](https://github.com/vikramnitin9/c2saferrust)]
