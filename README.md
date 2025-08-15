@@ -185,6 +185,9 @@
 
 ## 📊 Datasets and Benchmarks
 
+- **AutoCodeBench**: AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators
+ [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
+
 - **LiveRepoReflection**: Turning the Tide: Repository-based Code Reflection [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.09866)] [[🔗 repo](https://livereporeflection.github.io/)]
 
 - **SWE-Factory**: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.10954v1)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/swe-factory)]
