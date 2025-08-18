@@ -30,7 +30,7 @@
 
 - EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.10484)]
 
-- OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
+- Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 
 - CoRet: Improved Retriever for Code Editing [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.24715)] 
 
