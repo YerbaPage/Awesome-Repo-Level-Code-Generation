@@ -282,6 +282,8 @@
 
 - **Skeleton-Guided-Translation**: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation [2025-01-arxiv] [[📄 paper](https://arxiv.org/abs/2501.16050)] [[🔗 repo](https://github.com/microsoft/TransRepo)]
 
+- **SWE-Dev**: SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.16975)] [[🔗 repo](https://github.com/justLittleWhite/SWE-Dev)]
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=YerbaPage/Awesome-Repo-Level-Code-Generation&type=Date)](https://www.star-history.com/#YerbaPage/Awesome-Repo-Level-Code-Generation&Date)
