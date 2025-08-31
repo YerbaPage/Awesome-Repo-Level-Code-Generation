@@ -171,10 +171,15 @@
 
 ## 🧪 Repo-Level Unit Test Generation
 - Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
+
 - AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
+
 - Issue2Test: Generating Reproducing Test Cases from Issue Reports [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.16320)]
+
 - Agentic Bug Reproduction for Effective Automated Program Repair at Google [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.01821)]
+
 - LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues [2024-11-arXiv] [[📄 paper](https://arxiv.org/pdf/2411.13941)]
+
 
 ## 🔍 Repo-Level Code QA
 
