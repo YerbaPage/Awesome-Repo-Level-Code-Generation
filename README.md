@@ -1,4 +1,4 @@
-<img width="1956" height="866" alt="image" src="https://github.com/user-attachments/assets/707f2c82-79ec-4532-b307-eaaa99fddad3" /><h1 align="center">🤖✨ Awesome Repository-Level Code Generation ✨🤖</h1>
+<h1 align="center">🤖✨ Awesome Repository-Level Code Generation ✨🤖</h1>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
