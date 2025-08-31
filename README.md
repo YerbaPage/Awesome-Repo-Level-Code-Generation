@@ -260,6 +260,9 @@
 
 - **Codev-Bench**: How Do LLMs Understand Developer-Centric Code Completion? [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.01353)] [[🔗 repo](https://github.com/LingmaTongyi/Codev-Bench)]
 
+- **SWT-Bench**: Testing and Validating Real-World Bug-Fixes with Code Agents
+ [2024-06-arxiv] [[📄 paper](https://arxiv.org/abs/2406.12952)] [[🕸️ website](https://swtbench.com/?results=verified)]
+
 - **CodeRAG-Bench**: Can Retrieval Augment Code Generation? [2024-06-arXiv] [[📄 paper](http://arxiv.org/abs/2406.14497)] [[🔗 repo](https://github.com/code-rag-bench/code-rag-bench/tree/main)]
 
 - **R2C2-Bench**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
