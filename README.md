@@ -1,4 +1,4 @@
-<h1 align="center">🤖✨ Awesome Repository-Level Code Generation ✨🤖</h1>
+<img width="1956" height="866" alt="image" src="https://github.com/user-attachments/assets/707f2c82-79ec-4532-b307-eaaa99fddad3" /><h1 align="center">🤖✨ Awesome Repository-Level Code Generation ✨🤖</h1>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
@@ -15,6 +15,7 @@
 - [💥 Repo-Level Issue Resolution](#-repo-level-issue-resolution)
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [🔄 Repo-Level Code Translation](#-repo-level-code-translation)
+- [🧪 Repo-Level Unit Test Generation](#-repo-level-unit-test-generation)
 - [🔍 Repo-Level Code QA](#-repo-level-code-qa)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
@@ -167,6 +168,13 @@
 - Scalable, Validated Code Translation of Entire Projects using Large Language Models [2025-06-PLDI] [[📄 paper](https://dl.acm.org/doi/abs/10.1145/3729315)] 
 
 - Syzygy: Dual Code-Test C to (safe) Rust Translation using LLMs and Dynamic Analysis [2024-12-arxiv] [[📄 paper](https://arxiv.org/pdf/2412.14234)] [[🕸️ website](https://syzygy-project.github.io/)]
+
+## 🧪 Repo-Level Unit Test Generation
+- Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
+- AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
+- Issue2Test: Generating Reproducing Test Cases from Issue Reports [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.16320)]
+- Agentic Bug Reproduction for Effective Automated Program Repair at Google [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.01821)]
+- LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues [2024-11-arXiv] [[📄 paper](https://arxiv.org/pdf/2411.13941)]
 
 ## 🔍 Repo-Level Code QA
 
