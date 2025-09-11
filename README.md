@@ -213,6 +213,8 @@
 
 - **SWE-Flow**: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
 
+- **AgentIssue-Bench**: Can Agents Fix Agent Issues? [2025-08-arXiv] [[📄 paper](https://arxiv.org/pdf/2505.20749)] [[🔗 repo](https://github.com/alfin06/AgentIssue-Bench)]
+
 - **OmniGIRL**: OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.04606)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
 
 - **SWE-Smith**: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
