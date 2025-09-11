@@ -20,7 +20,10 @@
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution 
+- SWE-Swiss: A Multi-Task Fine-Tuning and RL Recipe for High-Performance Issue Resolution [2025-08-arXiv] [[📄 blog](https://pebble-potato-fc6.notion.site/SWE-Swiss-A-Multi-Task-Fine-Tuning-and-RL-Recipe-for-High-Performance-Issue-Resolution-21e174dedd4880ea829ed4c861c44f88)] [[🔗 repo](https://github.com/zhenyuhe00/SWE-Swiss)]
 
+- DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL [2025-07-arXiv] [[📄 blog](https://pretty-radio-b75.notion.site/DeepSWE-Training-a-Fully-Open-sourced-State-of-the-Art-Coding-Agent-by-Scaling-RL-22281902c1468193aabbe9a8c59bbe33)] [[🔗 repo](https://github.com/agentica-project/rllm)]
+  
 - SWE-Exp: Experience-Driven Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23361)] [[🔗 repo](https://github.com/YerbaPage/SWE-Exp)]
 
 - SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23348)] [[🔗 repo](https://github.com/YerbaPage/SWE-Debate)]
