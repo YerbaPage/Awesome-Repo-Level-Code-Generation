@@ -199,15 +199,15 @@
 - CodeQueries: A Dataset of Semantic Queries over Code [2022-09-arXiv] [[📄 paper](https://arxiv.org/abs/2209.08372)]
 
 ## 👩‍💻 Repo-Level Issue Task Synthesis
-- **SWE-Mirror**: SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
+- SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
 
-- **SWE-bench-Live**: SWE-bench Goes Live! [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
+- SWE-bench Goes Live! [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
-- **SWE-Smith**: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
+- Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
 
-- **SWE-Synth**: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
+- Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
 
-- **SWE-Gym**: Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
+- Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 
 ## 📊 Datasets and Benchmarks
