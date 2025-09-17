@@ -201,6 +201,8 @@
 ## 👩‍💻 Repo-Level Issue Task Synthesis
 - SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
 
+- R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.07164)] [[🔗 repo](https://r2e-gym.github.io/)]
+
 - SWE-bench Goes Live! [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 
 - Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
