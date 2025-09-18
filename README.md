@@ -162,6 +162,8 @@
 
 ## 🔄 Repo-Level Code Translation
 
+- A Systematic Literature Review on Neural Code Translation [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.07425)]
+
 - EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.04295)]
 
 - Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code [2024-04-ICSE] [[📄 paper](https://doi.org/10.1145/3597503.3639226)] [[🔗 repo](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical)]
