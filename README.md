@@ -168,6 +168,8 @@
 
 ## 🔍 Repo-Level Code QA
 
+- SWE-QA: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
+
 - Decompositional Reasoning for Graph Retrieval with Large Language Models [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.13380)]
 
 - LongCodeBench: Evaluating Coding LLMs at 1M Context Windows [2025-05-arXiv] [[📄 paper](https://arxiv.org/pdf/2505.07897)]
