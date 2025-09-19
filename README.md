@@ -15,7 +15,9 @@
 - [💥 Repo-Level Issue Resolution](#-repo-level-issue-resolution)
 - [🤖 Repo-Level Code Completion](#-repo-level-code-completion)
 - [🔄 Repo-Level Code Translation](#-repo-level-code-translation)
+- [🧪 Repo-Level Unit Test Generation](#-repo-level-unit-test-generation)
 - [🔍 Repo-Level Code QA](#-repo-level-code-qa)
+- [👩‍💻 Repo-Level Issue Task Synthesis](#-repo-level-issue-task-synthesis)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution 
@@ -24,13 +26,17 @@
 
 - SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23348)] [[🔗 repo](https://github.com/YerbaPage/SWE-Debate)]
 
+- SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints  [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.09853)]
+
+- Diffusion is a code repair operator and generator [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.11110)]
+
 - The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.12286)]
 
 - Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.11425)]
 
 - EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.10484)]
 
-- OpenHands-Versa: Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
+- Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 
 - CoRet: Improved Retriever for Code Editing [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.24715)] 
 
@@ -156,15 +162,29 @@
 
 ## 🔄 Repo-Level Code Translation
 
+- A Systematic Literature Review on Neural Code Translation [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.07425)]
+
 - EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.04295)]
 
 - Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code [2024-04-ICSE] [[📄 paper](https://doi.org/10.1145/3597503.3639226)] [[🔗 repo](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical)]
 
 - C2SaferRust: Transforming C Projects into Safer Rust with NeuroSymbolic Techniques [2025-01-arXiv] [[📄 paper](https://www.arxiv.org/pdf/2501.14257)] [[🔗 repo](https://github.com/vikramnitin9/c2saferrust)]
 
-- Scalable, Validated Code Translation of Entire Projects using Large Language Models [2025-06-PLDI] [[📄 paper](https://doi.org/10.5281/zenodo.15242640)] 
+- Scalable, Validated Code Translation of Entire Projects using Large Language Models [2025-06-PLDI] [[📄 paper](https://dl.acm.org/doi/abs/10.1145/3729315)] 
 
 - Syzygy: Dual Code-Test C to (safe) Rust Translation using LLMs and Dynamic Analysis [2024-12-arxiv] [[📄 paper](https://arxiv.org/pdf/2412.14234)] [[🕸️ website](https://syzygy-project.github.io/)]
+
+## 🧪 Repo-Level Unit Test Generation
+- Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
+
+- AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
+
+- Issue2Test: Generating Reproducing Test Cases from Issue Reports [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.16320)]
+
+- Agentic Bug Reproduction for Effective Automated Program Repair at Google [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.01821)]
+
+- LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues [2024-11-arXiv] [[📄 paper](https://arxiv.org/pdf/2411.13941)]
+
 
 ## 🔍 Repo-Level Code QA
 
@@ -184,16 +204,38 @@
 
 - CodeQueries: A Dataset of Semantic Queries over Code [2022-09-arXiv] [[📄 paper](https://arxiv.org/abs/2209.08372)]
 
+## 👩‍💻 Repo-Level Issue Task Synthesis
+- SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
+
+- R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.07164)] [[🔗 repo](https://r2e-gym.github.io/)]
+
+- SWE-bench Goes Live! [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
+
+- Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
+
+- Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
+
+- Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
+
 
 ## 📊 Datasets and Benchmarks
 
+- **AutoCodeBench**: AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators
+ [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
+
 - **LiveRepoReflection**: Turning the Tide: Repository-based Code Reflection [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.09866)] [[🔗 repo](https://livereporeflection.github.io/)]
+
+- **SWE-Perf**: SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories? [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.12415)] [[🔗 repo](https://swe-perf.github.io/)]
+
+- **ResearchCodeBench**: Benchmarking LLMs on Implementing Novel Machine Learning Research Code [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.02314)] [[🔗 repo](https://researchcodebench.github.io/)]
 
 - **SWE-Factory**: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.10954v1)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 
 - **UTBoost**: Rigorous Evaluation of Coding Agents on SWE-Bench [ACL-2025] [[📄 paper](https://arxiv.org/abs/2506.09289)]
 
 - **SWE-Flow**: Synthesizing Software Engineering Data in a Test-Driven Manner [ICML-2025] [[📄 paper](https://arxiv.org/abs/2506.09003)] [[🔗 repo](https://github.com/Hambaobao/SWE-Flow)]
+
+- **AgentIssue-Bench**: Can Agents Fix Agent Issues? [2025-08-arXiv] [[📄 paper](https://arxiv.org/pdf/2505.20749)] [[🔗 repo](https://github.com/alfin06/AgentIssue-Bench)]
 
 - **OmniGIRL**: OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.04606)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
 
@@ -257,6 +299,9 @@
 
 - **Codev-Bench**: How Do LLMs Understand Developer-Centric Code Completion? [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.01353)] [[🔗 repo](https://github.com/LingmaTongyi/Codev-Bench)]
 
+- **SWT-Bench**: Testing and Validating Real-World Bug-Fixes with Code Agents
+ [2024-06-arxiv] [[📄 paper](https://arxiv.org/abs/2406.12952)] [[🕸️ website](https://swtbench.com/?results=verified)]
+
 - **CodeRAG-Bench**: Can Retrieval Augment Code Generation? [2024-06-arXiv] [[📄 paper](http://arxiv.org/abs/2406.14497)] [[🔗 repo](https://github.com/code-rag-bench/code-rag-bench/tree/main)]
 
 - **R2C2-Bench**: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.01359)]
@@ -280,6 +325,8 @@
 - **CrossCodeEval**: A Diverse and Multilingual Benchmark for Cross-File Code Completion [2023-NeurIPS] [[📄 paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf)] [[🔗 site](https://crosscodeeval.github.io/)]
 
 - **Skeleton-Guided-Translation**: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation [2025-01-arxiv] [[📄 paper](https://arxiv.org/abs/2501.16050)] [[🔗 repo](https://github.com/microsoft/TransRepo)]
+
+- **SWE-Dev**: SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.16975)] [[🔗 repo](https://github.com/justLittleWhite/SWE-Dev)]
 
 ## Star History
 
