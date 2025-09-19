@@ -219,6 +219,7 @@
 
 
 ## 📊 Datasets and Benchmarks
+- **SWE-QA**: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
 
 - **AutoCodeBench**: AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators
  [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
