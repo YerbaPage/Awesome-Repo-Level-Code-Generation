@@ -168,6 +168,8 @@
 
 - Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code [2024-04-ICSE] [[📄 paper](https://doi.org/10.1145/3597503.3639226)] [[🔗 repo](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical)]
 
+- Enhancing llm-based code translation in repository context via triple knowledge-augmented [2025-03-arXiv] [[📄 paper]([https://www.arxiv.org/pdf/2501.14257](https://arxiv.org/pdf/2503.18305))]
+
 - C2SaferRust: Transforming C Projects into Safer Rust with NeuroSymbolic Techniques [2025-01-arXiv] [[📄 paper](https://www.arxiv.org/pdf/2501.14257)] [[🔗 repo](https://github.com/vikramnitin9/c2saferrust)]
 
 - Scalable, Validated Code Translation of Entire Projects using Large Language Models [2025-06-PLDI] [[📄 paper](https://dl.acm.org/doi/abs/10.1145/3729315)] 
