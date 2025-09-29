@@ -176,6 +176,8 @@
 
 - Syzygy: Dual Code-Test C to (safe) Rust Translation using LLMs and Dynamic Analysis [2024-12-arxiv] [[📄 paper](https://arxiv.org/pdf/2412.14234)] [[🕸️ website](https://syzygy-project.github.io/)]
 
+- RustRepoTrans: Repository-level Code Translation Benchmark Targeting Rust [2024-11-arxiv] [[📄 paper](https://arxiv.org/abs/2411.13990)] [[🔗 repo](https://github.com/SYSUSELab/RustRepoTrans)]
+
 ## 🧪 Repo-Level Unit Test Generation
 - Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
 
