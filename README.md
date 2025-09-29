@@ -224,6 +224,8 @@
 
 ## 📊 Datasets and Benchmarks
 - **SWE-QA**: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
+
+- **SecureAgentBench**: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios [2025-09-arXiv] [[📄 paper](https://arxiv.org/html/2509.22097v1)]
   
 - **SWE-bench Pro**: Can AI Agents Solve Long-Horizon Software Engineering Tasks? [2025-09] [[📄 paper](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/SWEAP_Eval_Scale%20(9).pdf)] [[🔗 repo](https://github.com/scaleapi/SWE-bench_Pro-os/tree/main?tab=readme-ov-file)]
 
