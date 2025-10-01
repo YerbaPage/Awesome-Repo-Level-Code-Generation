@@ -183,6 +183,8 @@
 
 - AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
 
+- Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM  [2025-06-arXiv] [[📄 paper](https://dl.acm.org/doi/10.1145/3715718)]
+
 - Issue2Test: Generating Reproducing Test Cases from Issue Reports [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.16320)]
 
 - Agentic Bug Reproduction for Effective Automated Program Repair at Google [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.01821)]
