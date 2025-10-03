@@ -26,6 +26,8 @@
 
 - SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23348)] [[🔗 repo](https://github.com/YerbaPage/SWE-Debate)]
 
+- Where LLM Agents Fail and How They can Learn From Failures  [2025-09-arXiv] [[📄 paper](https://www.arxiv.org/abs/2509.25370)]
+
 - SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints  [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.09853)]
 
 - Diffusion is a code repair operator and generator [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.11110)]
