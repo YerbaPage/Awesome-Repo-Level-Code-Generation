@@ -229,6 +229,8 @@
 ## 📊 Datasets and Benchmarks
 - **SWE-QA**: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
 
+- **Vibe Checker**: Aligning Code Evaluation with Human Preference [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2510.07315)]
+
 - **MULocBench**: A Benchmark for Localizing Code and Non-Code Issues in Software Projects [2025-09-arXiv] [[📄 paper](https://www.arxiv.org/abs/2509.25242)] [[🕸️ website](https://huggingface.co/datasets/somethingone/MULocBench)]
 
 - **SecureAgentBench**: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios [2025-09-arXiv] [[📄 paper](https://arxiv.org/html/2509.22097v1)]
