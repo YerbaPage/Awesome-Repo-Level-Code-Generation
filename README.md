@@ -229,6 +229,10 @@
 ## 📊 Datasets and Benchmarks
 - **SWE-QA**: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
 
+- **SR-Eval**: Evaluating LLMs on Code Generation under Stepwise Requirement Refinement [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.18808)]
+
+- **RECODE-H**: A Benchmark for Research Code Development with Interactive Human Feedback [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2510.06186v1)]
+
 - **Bigcodebench**: Benchmarking code generation with diverse function calls and complex instructions [ICLR-2025 Oral] [[📄 paper](https://arxiv.org/abs/2406.15877)] [[🔗 repo](https://github.com/bigcode-project/bigcodebench)]
 
 - **Vibe Checker**: Aligning Code Evaluation with Human Preference [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2510.07315)]
