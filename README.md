@@ -272,6 +272,8 @@
 
 - **Unveiling Pitfalls**: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.12374)]
 
+- **ConvCodeWorld**: Benchmarking Conversational Code Generation in Reproducible Feedback Environments [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.19852)] [[🔗 repo](https://huggingface.co/spaces/ConvCodeWorld/ConvCodeWorld)]
+
 - **SWE-Lancer**: Can Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [2025-arXiv] [[📄 paper](https://arxiv.org/pdf/2502.12115)] [[🔗 repo](https://github.com/openai/SWELancer-Benchmark)]
 
 - Evaluating Agent-based Program Repair at Google [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.07531)]
