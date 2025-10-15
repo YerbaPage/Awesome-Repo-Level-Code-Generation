@@ -264,6 +264,8 @@
 
 - **OmniGIRL**: OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.04606)] [[🔗 repo](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
 
+- **CodeFlowBench**: A Multi-turn, Iterative Benchmark for Complex Code Generation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21751)] [[🔗 repo](https://github.com/Rise-1210/codeflow)]
+
 - **SWE-Smith**: Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
 
 - **SWE-Synth**: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
