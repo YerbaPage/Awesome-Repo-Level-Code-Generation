@@ -296,7 +296,7 @@
 
 - **SWEE-Bench & SWA-Bench**: Automated Benchmark Generation for Repository-Level Coding Tasks [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07701)]
 
-- **ProjectEval**: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07010)] [[🔗 repo](https://github.com/RyanLoil/ProjectEval/)]
+- **ProjectEval**: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation [2025 ACL-Findins] [[📄 paper](https://arxiv.org/pdf/2503.07010)] [[🔗 repo](https://github.com/RyanLoil/ProjectEval/)]
 
 - **REPOST-TRAIN**: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07358)] [[🔗 repo](https://github.com/yiqingxyq/RepoST)]
 
