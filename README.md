@@ -227,6 +227,8 @@
 
 
 ## 📊 Datasets and Benchmarks
+- **ImpossibleBench**: Measuring LLMs’ Propensity of Exploiting Test Cases [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2510.20270)]
+
 - **SWE-QA**: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
 
 - **SR-Eval**: Evaluating LLMs on Code Generation under Stepwise Requirement Refinement [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.18808)]
