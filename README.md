@@ -26,6 +26,8 @@
 
 - SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23348)] [[🔗 repo](https://github.com/YerbaPage/SWE-Debate)]
 
+- BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills  [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2510.19898)]
+
 - Where LLM Agents Fail and How They can Learn From Failures  [2025-09-arXiv] [[📄 paper](https://www.arxiv.org/abs/2509.25370)] [[🔗 repo](https://github.com/ulab-uiuc/AgentDebug)]
 
 - SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints  [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.09853)]
