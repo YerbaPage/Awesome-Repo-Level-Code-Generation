@@ -231,6 +231,8 @@
 
 
 ## 📊 Datasets and Benchmarks
+- **SWE-Sharp-Bench**: A Reproducible Benchmark for C# Software Engineering Tasks [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.02352)]
+
 - **ImpossibleBench**: Measuring LLMs’ Propensity of Exploiting Test Cases [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2510.20270)]
 
 - **SWE-QA**: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
