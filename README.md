@@ -230,8 +230,10 @@
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 
-## 📊 Datasets and Benchmarks
- - **SWE-Compass**: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.05459)]
+## 📊 Datasets and Benchmarks 
+- **SWE-fficiency**: Can Language Models Optimize Real-World Repositories on Real Workloads? [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.06090)]
+
+- **SWE-Compass**: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.05459)]
 
 - **SWE-Sharp-Bench**: A Reproducible Benchmark for C# Software Engineering Tasks [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.02352)]
 
