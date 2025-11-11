@@ -231,6 +231,8 @@
 
 
 ## 📊 Datasets and Benchmarks
+ - **SWE-Compass**: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.05459)]
+
 - **SWE-Sharp-Bench**: A Reproducible Benchmark for C# Software Engineering Tasks [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.02352)]
 
 - **ImpossibleBench**: Measuring LLMs’ Propensity of Exploiting Test Cases [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2510.20270)]
