@@ -233,6 +233,8 @@
 
 
 ## 📊 Datasets and Benchmarks 
+- **CodeClash**: CodeClash: Benchmarking Goal-Oriented Software Engineering [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.00839)] [[🔗 repo](https://github.com/CodeClash-ai/CodeClash)]
+
 - **SWE-fficiency**: Can Language Models Optimize Real-World Repositories on Real Workloads? [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.06090)]
 
 - **SWE-Compass**: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.05459)]
