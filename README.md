@@ -26,6 +26,8 @@
 
 - SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23348)] [[🔗 repo](https://github.com/YerbaPage/SWE-Debate)]
 
+- LIVE-SWE-AGENT: Can Software Engineering Agents Self-Evolve on the Fly? [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.13646)]
+
 - Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories  [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2511.00197)]
 
 - BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills  [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2510.19898)]
