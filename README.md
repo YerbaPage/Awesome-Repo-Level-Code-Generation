@@ -233,6 +233,8 @@
 
 
 ## 📊 Datasets and Benchmarks 
+- **Multi-Docker-Eval**:  A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering? [2025-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2512.06915)]
+
 - **CodeClash**: CodeClash: Benchmarking Goal-Oriented Software Engineering [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.00839)] [[🔗 repo](https://github.com/CodeClash-ai/CodeClash)]
 
 - **SWE-fficiency**: Can Language Models Optimize Real-World Repositories on Real Workloads? [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.06090)]
