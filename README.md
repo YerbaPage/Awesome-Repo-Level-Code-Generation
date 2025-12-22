@@ -312,7 +312,7 @@
 
 - **Multi-SWE-bench**: A Multilingual Benchmark for Issue Resolving [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.02605)] [[🔗 repo](https://github.com/multi-swe-bench/multi-swe-bench)]
 
-- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2025-04-NAACL] [[📄 paper](https://arxiv.org/abs/2412.04478)][[🔗 Website](https://lib-evolution-eval.github.io/)]
+- **LibEvolutionEval**: A Benchmark and Study for Version-Specific Code Generation [2025-04-NAACL] [[📄 paper](https://arxiv.org/abs/2412.04478)][[🔗 Website](https://lib-evolution-eval.github.io/)][[🔗 repo](https://github.com/amazon-science/LibEvolutionEval)]
 
 - **SWEE-Bench & SWA-Bench**: Automated Benchmark Generation for Repository-Level Coding Tasks [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.07701)]
 
