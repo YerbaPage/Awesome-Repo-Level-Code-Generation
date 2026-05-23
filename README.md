@@ -202,8 +202,11 @@
 - RepoChat: An LLM-Powered Chatbot for GitHub Repository Question-Answering [MSR-2025] [[🔗 repo](https://2025.msrconf.org/details/msr-2025-data-and-tool-showcase-track/35/RepoChat-An-LLM-Powered-Chatbot-for-GitHub-Repository-Question-Answering)]
 
 
+- SWE Atlas: Benchmarking Coding Agents Beyond Issue Resolution [2026-05-arXiv] [[📄 paper](https://arxiv.org/abs/2605.08366)] [[🔗 repo](https://github.com/scaleapi/SWE-Atlas)]
 - FastCode: Fast and Cost-Efficient Code Understanding and Reasoning [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01012)]
+- SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding [2026-ACL] [[📄 paper](https://arxiv.org/abs/2603.16124)] [[🔗 repo](https://github.com/TIGER-AI-Lab/SWE-QA-Pro)]
 - SWE-QA: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
+- GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.18993)] [[🔗 repo](https://github.com/QuantaAlpha/GitTaskBench)]
 - Decompositional Reasoning for Graph Retrieval with Large Language Models [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.13380)]
 - LongCodeBench: Evaluating Coding LLMs at 1M Context Windows [2025-05-arXiv] [[📄 paper](https://arxiv.org/pdf/2505.07897)]
 - LocAgent: Graph-Guided LLM Agents for Code Localization [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.09089)] [[🔗 repo](https://github.com/gersteinlab/LocAgent)]
