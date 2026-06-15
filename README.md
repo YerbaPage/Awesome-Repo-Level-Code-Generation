@@ -23,6 +23,7 @@
 
 ## 💥 Repo-Level Issue Resolution
 
+- DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch [2026-06-arXiv] [[📄 paper](https://arxiv.org/abs/2606.10728)] [[🔗 repo](https://github.com/AweAI-Team/DeNovoSWE)]
 - SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context [2026-ACL-Findings] [[📄 paper](https://arxiv.org/abs/2604.11716)]
 - GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.08089)]
 - Triage: Routing Software Engineering Tasks to Cost-Effective LLM Tiers via Code Quality Signals [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.07494)]
