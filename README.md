@@ -22,7 +22,7 @@
 - [Star History](#star-history)
 
 ## 💥 Repo-Level Issue Resolution
-
+- LLM Agents Can See Code Repositories [2026-ASE] [[📄 paper](https://arxiv.org/abs/2606.14061)] [[🔗 repo](https://github.com/cslsolow/SeeRepo)]
 - DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch [2026-06-arXiv] [[📄 paper](https://arxiv.org/abs/2606.10728)] [[🔗 repo](https://github.com/AweAI-Team/DeNovoSWE)]
 - SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context [2026-ACL-Findings] [[📄 paper](https://arxiv.org/abs/2604.11716)]
 - GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.08089)]
@@ -45,7 +45,7 @@
 - Structurally Aligned Subtask-Level Memory for Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.21611)]
 - SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.22124)]
 - Evaluating and Improving Automated Repository-Level Rust Issue Resolution with LLM-based Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.22764)]
-- What's in a Benchmark? The Case of SWE-Bench in Automated Program Repair [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.04449)] 
+- What's in a Benchmark? The C of SWE-Bench in Automated Program Repair [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.04449)] 
 - EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.05777)]
 - Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.11655)]
 - RGFL: Reasoning Guided Fault Localization for Automated Program Repair Using Large Language Models [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.18044)]
