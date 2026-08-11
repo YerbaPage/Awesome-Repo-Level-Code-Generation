@@ -23,6 +23,7 @@
 
 ## 💥 Repo-Level Issue Resolution
 - LLM Agents Can See Code Repositories [2026-ASE] [[📄 paper](https://arxiv.org/abs/2606.14061)] [[🔗 repo](https://github.com/cslsolow/SeeRepo)]
+- Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models [2026-07-arXiv] [[📄 paper](https://arxiv.org/abs/2607.12463)] [[🔗 repo](https://github.com/TIGER-AI-Lab/FIM-Midtraining)]
 - Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution [2026-07-arXiv] [[📄 paper](https://arxiv.org/abs/2607.11111)] [[🔗 repo](https://github.com/LionLin2003/ACQUIRE)]
 - DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch [2026-06-arXiv] [[📄 paper](https://arxiv.org/abs/2606.10728)] [[🔗 repo](https://github.com/AweAI-Team/DeNovoSWE)]
 - SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context [2026-ACL-Findings] [[📄 paper](https://arxiv.org/abs/2604.11716)]
