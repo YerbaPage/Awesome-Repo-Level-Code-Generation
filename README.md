@@ -382,4 +382,4 @@
 - **Skeleton-Guided-Translation**: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation [2025-01-arxiv] [[📄 paper](https://arxiv.org/abs/2501.16050)] [[🔗 repo](https://github.com/microsoft/TransRepo)]
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YerbaPage/Awesome-Repo-Level-Code-Generation&type=Date)](https://www.star-history.com/#YerbaPage/Awesome-Repo-Level-Code-Generation&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=YerbaPage/Awesome-Repo-Level-Code-Generation&type=Date)](https://star-history.dera.page/#YerbaPage/Awesome-Repo-Level-Code-Generation&Date)
