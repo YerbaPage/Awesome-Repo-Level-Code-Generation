@@ -223,7 +223,7 @@
 
 
 
-
+- SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution [2026-08-arXiv] [[📄 paper](https://arxiv.org/abs/2608.18933)] [[🔗 repo](https://github.com/cslsolow/SkillForge)]
 - SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03964)]
 - SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
 - SWE-bench Goes Live! [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
