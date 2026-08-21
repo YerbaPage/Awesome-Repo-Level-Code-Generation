@@ -109,7 +109,7 @@
 
 
 
-
+- Repo0: Design-Driven Zero-to-All Code Generation [2026-08-arXiv] [[📄 paper](https://arxiv.org/abs/2608.19854)] [[🔗 repo](https://github.com/cslsolow/Repo0)]
 - Persistent Cross-Attempt State Optimization for Repository-Level Code Generation [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03632)]
 - Toward Executable Repository-Level Code Generation via Environment Alignment [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03622)]
   
