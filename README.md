@@ -22,6 +22,7 @@
 - [Star History](#star-history)
 
 ## 💥 Repo-Level Issue Resolution
+- SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution [2026-08-arXiv] [[📄 paper](https://arxiv.org/abs/2608.18933)] [[🔗 repo](https://github.com/cslsolow/SkillForge)]
 - LLM Agents Can See Code Repositories [2026-ASE] [[📄 paper](https://arxiv.org/abs/2606.14061)] [[🔗 repo](https://github.com/cslsolow/SeeRepo)]
 - Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models [2026-07-arXiv] [[📄 paper](https://arxiv.org/abs/2607.12463)] [[🔗 repo](https://github.com/TIGER-AI-Lab/FIM-Midtraining)]
 - Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution [2026-07-arXiv] [[📄 paper](https://arxiv.org/abs/2607.11111)] [[🔗 repo](https://github.com/LionLin2003/ACQUIRE)]
