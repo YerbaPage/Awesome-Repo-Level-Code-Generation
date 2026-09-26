@@ -22,6 +22,7 @@
 - [Star History](#star-history)
 
 ## 💥 Repo-Level Issue Resolution
+- Evaluating Code Slop in Long-Horizon Coding Agents [2026-COLM-Workshop] [[📄 paper](https://openreview.net/forum?id=VLgFkLRUfV)]
 - SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution [2026-08-arXiv] [[📄 paper](https://arxiv.org/abs/2608.18933)] [[🔗 repo](https://github.com/cslsolow/SkillForge)]
 - LLM Agents Can See Code Repositories [2026-ASE] [[📄 paper](https://arxiv.org/abs/2606.14061)] [[🔗 repo](https://github.com/cslsolow/SeeRepo)]
 - Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models [2026-07-arXiv] [[📄 paper](https://arxiv.org/abs/2607.12463)] [[🔗 repo](https://github.com/TIGER-AI-Lab/FIM-Midtraining)]
