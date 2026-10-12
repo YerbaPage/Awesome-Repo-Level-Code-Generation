@@ -188,6 +188,7 @@
 
 
 - Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.07900)]
+- SWE-Tester: Training Open-Source LLMs for Issue Reproduction in Real-World Repositories [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.13713)] [[🔗 repo](https://github.com/adityasoni9998/SWE-Tester)]
 - Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
 - AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
 - Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM  [2025-06-arXiv] [[📄 paper](https://dl.acm.org/doi/10.1145/3715718)]
