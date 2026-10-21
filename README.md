@@ -70,6 +70,7 @@
 - Coding Agents with Multimodal Browsing are Generalist Problem Solvers [2025-06-arXiv] [[📄 paper](https://arxiv.org/pdf/2506.03011)] [[🔗 repo](https://github.com/adityasoni9998/OpenHands-Versa)]
 - CoRet: Improved Retriever for Code Editing [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.24715)] 
 - Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.22954)] [[🔗 repo](https://github.com/jennyzzt/dgm)]
+- An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation [2025-EMNLP] [[📄 paper](https://arxiv.org/abs/2505.20182)] [[🔗 repo](https://github.com/shubhamrgandhi/codegen-strong-weak-collab)]
 - SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.16975)] [[🔗 repo](https://github.com/justLittleWhite/SWE-Dev)]
 - Putting It All into Context: Simplifying Agents with LCLMs [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.08120)]
 - SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning [2025-05-arXiv] [[📄 blog](https://novasky-ai.notion.site/skyrl-v0)] [[🔗 repo](https://github.com/novasky-ai/skyrl-v0)]
