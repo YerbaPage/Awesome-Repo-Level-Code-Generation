@@ -381,7 +381,7 @@
 - **RepoEval**: Repository-Level Code Completion Through Iterative Retrieval and Generation [2023-EMNLP] [[📄 paper](https://aclanthology.org/2023.emnlp-main.151/)] [[🔗 repo](https://github.com/microsoft/CodeT/tree/main/RepoCoder)]
 - **CrossCodeEval**: A Diverse and Multilingual Benchmark for Cross-File Code Completion [2023-NeurIPS] [[📄 paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf)] [[🔗 site](https://crosscodeeval.github.io/)]
 - **Skeleton-Guided-Translation**: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation [2025-01-arxiv] [[📄 paper](https://arxiv.org/abs/2501.16050)] [[🔗 repo](https://github.com/microsoft/TransRepo)]
-- LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering [2026-08-arXiv] [[📄 HF paper](https://huggingface.co/papers/2608.28281)] [[📄 ModelScope](https://www.modelscope.cn/papers/2608.28281)] [[🔗 repo](https://github.com/AMAP-ML/LoopArena)]
+- **LoopArena**: Benchmarking Models as Runtime Controllers for Loop Engineering [2026-08-arXiv] [[📄 HF paper](https://huggingface.co/papers/2608.28281)] [[📄 ModelScope](https://www.modelscope.cn/papers/2608.28281)] [[🔗 repo](https://github.com/AMAP-ML/LoopArena)]
 
 ## Star History
 
