@@ -315,6 +315,7 @@
 
 
 
+- FeatureBench: Benchmarking Agentic Coding for Complex Feature Development [2026-ICLR] [[📄 paper](https://arxiv.org/abs/2602.10975)] [[🔗 repo](https://github.com/LiberCoders/FeatureBench)]
 - OmniCode: A Benchmark for Evaluating Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.02262)] 
 - **SWE-Bench++**: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.17419)]
 - **Multi-Docker-Eval**:  A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering? [2025-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2512.06915)]
