@@ -237,16 +237,8 @@
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 ## 📊 Datasets and Benchmarks
 
-
-
-
-
-
-
-
-
-
-
+- CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents [2026-11-arXiv] [[📄 paper](https://arxiv.org/abs/2611.01484)]
+- SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes [2026-10-arXiv] [[📄 paper](https://arxiv.org/abs/2610.21359)]
 
 - SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.18470)]
   
