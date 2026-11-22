@@ -221,12 +221,7 @@
 - CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering [2025-01-arXiv] [[📄 paper](https://arxiv.org/pdf/2501.03447)]
 - CodeQueries: A Dataset of Semantic Queries over Code [2022-09-arXiv] [[📄 paper](https://arxiv.org/abs/2209.08372)]
 ## 👩‍💻 Repo-Level Issue Task Synthesis
-
-
-
-
-
-
+- SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes [2026-10-arXiv] [[📄 paper](https://arxiv.org/abs/2610.21359)]
 - SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution [2026-08-arXiv] [[📄 paper](https://arxiv.org/abs/2608.18933)] [[🔗 repo](https://github.com/cslsolow/SkillForge)]
 - SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03964)]
 - SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
@@ -235,10 +230,12 @@
 - Scaling Data for Software Engineering Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.21798)] [[🔗 repo](https://swesmith.com/)]
 - Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.14757v1)] [[🔗 repo](https://github.com/FSoft-AI4Code/SWE-Synth)]
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
+
+
 ## 📊 Datasets and Benchmarks
 
 - CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents [2026-11-arXiv] [[📄 paper](https://arxiv.org/abs/2611.01484)]
-- SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes [2026-10-arXiv] [[📄 paper](https://arxiv.org/abs/2610.21359)]
+- Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It? [2026-08-arXiv] [[📄 paper](https://arxiv.org/abs/2609.27891)]
 
 - SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.18470)]
   
